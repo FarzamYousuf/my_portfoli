@@ -1,166 +1,134 @@
-const logotext = "JOHN";
+const logotext = "FARZAM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+  title: "Farzam Yousuf",
+  description:
+    "I’m Farzam Yousuf React Native Developer ,currently working in Karachi",
 };
 
 const introdata = {
-    title: "I’m John Doe",
-    animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
-    },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  title: "I’m Farzam Yousuf",
+  animated: {
+    first: "I love Coding.",
+    second: "I am a Professional Developer.",
+    third: "I develop mobile apps on React Native.",
+  },
+  description:
+    "I am an experienced React Native developer with four years of expertise, having published seven successful applications on both the Apple App Store and Google Play Store. My focus is on creating high-quality, cross-platform mobile apps that provide exceptional user experiences and functionality.",
+  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+  title: "abit about my self",
+  aboutme:
+    "I am a seasoned React Native developer with over three years of professional experience in the field. During my career, I have successfully published seven innovative mobile applications on both the Apple App Store and Google Play Store. These apps have received positive reviews and garnered a substantial user base.My expertise in React Native allows me to create cross-platform mobile applications that not only meet but exceed the expectations of users. I take pride in my ability to translate ideas into intuitive and visually appealing applications, all while ensuring smooth performance and reliability.Over the years, I have honed my skills in developing responsive and feature-rich mobile solutions. I am well-versed in working with diverse teams, adhering to best practices, and keeping up with the latest industry trends. My commitment to delivering top-tier mobile applications makes me a reliable and dedicated professional in the field.I am enthusiastic about tackling new challenges and contributing to the success of future projects. Whether it's enhancing user engagement, optimizing performance, or developing innovative features, I am ready to take on the task and bring value to every project I work on.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+const worktimeline = [
+  {
+    jobtitle: "Designer of week",
+    where: "YAdfi",
+    date: "2020",
+  },
+  {
+    jobtitle: "Designer of week",
+    where: "Jamalya",
+    date: "2019",
+  },
+  {
+    jobtitle: "Designer of week",
+    where: "ALquds",
+    date: "2019",
+  },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
-    },
+const skills = [
+  {
+    name: "React Native",
+    value: 100,
+  },
+  {
+    name: "React JS",
+    value: 85,
+  },
+  {
+    name: "Javascript",
+    value: 80,
+  },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const services = [
+  {
+    title: "React Native Development",
+    description:
+      "Expertise in building cross-platform mobile applications using React Native, ensuring seamless user experiences and optimal performance.",
+  },
+  {
+    title: "Redux State Management",
+    description:
+      "Proficient in utilizing Redux for efficient state management, allowing for robust data handling and application scalability.",
+  },
+  {
+    title: "API Integration",
+    description:
+      "Experience in integrating RESTful APIs and third-party services to enhance app functionality and retrieve real-time data.",
+  },
+  {
+    title: "UI/UX Optimization",
+    description:
+      "Dedicated to crafting intuitive and visually appealing user interfaces, while optimizing user experiences for maximum engagement.",
+  },
+  {
+    title: "App Deployment",
+    description:
+      "Proven track record of successfully deploying applications to the Apple App Store and Google Play Store, reaching a broad audience.",
+  },
+  {
+    title: "Code Quality",
+    description:
+      "Adherence to best coding practices, ensuring clean, maintainable, and efficient code for ease of collaboration and future development.",
+  },
+  {
+    title: "Problem Solving",
+    description:
+      "Strong problem-solving skills, enabling quick and effective resolution of technical challenges and optimization of app performance.",
+  },
 ];
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+const dataportfolio = [
+  {
+    title:'GJ Properties',
+    img: require('./assets/images/GJ_Properties.png'),
+    link: "#",
+  },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+  YOUR_EMAIL: "farzamyousuf1310@gmail.com",
+  YOUR_FONE: "+92 340 839 2112",
+  description:
+    "I always eager to connect and collaborate. If you have any questions, inquiries, or exciting projects you'd like to discuss, please don't hesitate to reach out. Feel free to contact me through the provided contact information, and i'll get back to you promptly. Let's start a conversation and explore how I can work together to achieve your goals.",
+  // creat an emailjs.com account
+  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+  YOUR_SERVICE_ID: "service_id",
+  YOUR_TEMPLATE_ID: "template_id",
+  YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+  github: "https://github.com/FarzamYousuf",
+  facebook: "https://facebook.com",
+  linkedin: "https://www.linkedin.com/in/farzam-yousuf-a24a13a0/",
+  twitter: "https://twitter.com",
+  stackoverflow:'https://stackoverflow.com/users/22845392/farzam-yousuf'
 };
 export {
-    meta,
-    dataabout,
-    dataportfolio,
-    worktimeline,
-    skills,
-    services,
-    introdata,
-    contactConfig,
-    socialprofils,
-    logotext,
+  meta,
+  dataabout,
+  dataportfolio,
+  worktimeline,
+  skills,
+  services,
+  introdata,
+  contactConfig,
+  socialprofils,
+  logotext,
 };
