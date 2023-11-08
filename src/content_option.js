@@ -13,7 +13,7 @@ const introdata = {
     third: "I develop mobile apps on React Native.",
   },
   description:
-    "I am an experienced React Native developer with four years of expertise, having published nine successful applications on both the Apple App Store and Google Play Store. My focus is on creating high-quality, cross-platform mobile apps that provide exceptional user experiences and functionality.",
+    "I am an experienced React Native developer with four years of expertise,published nine successful applications on both the Apple App Store and Google Play Store. My focus is on creating high-quality, cross-platform mobile apps that provide exceptional user experiences and functionality.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
