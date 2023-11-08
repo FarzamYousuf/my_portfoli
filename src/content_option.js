@@ -13,14 +13,14 @@ const introdata = {
     third: "I develop mobile apps on React Native.",
   },
   description:
-    "I am an experienced React Native developer with four years of expertise, having published seven successful applications on both the Apple App Store and Google Play Store. My focus is on creating high-quality, cross-platform mobile apps that provide exceptional user experiences and functionality.",
+    "I am an experienced React Native developer with four years of expertise, having published nine successful applications on both the Apple App Store and Google Play Store. My focus is on creating high-quality, cross-platform mobile apps that provide exceptional user experiences and functionality.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "I am a seasoned React Native developer with over three years of professional experience in the field. During my career, I have successfully published seven innovative mobile applications on both the Apple App Store and Google Play Store. These apps have received positive reviews and garnered a substantial user base.My expertise in React Native allows me to create cross-platform mobile applications that not only meet but exceed the expectations of users. I take pride in my ability to translate ideas into intuitive and visually appealing applications, all while ensuring smooth performance and reliability.Over the years, I have honed my skills in developing responsive and feature-rich mobile solutions. I am well-versed in working with diverse teams, adhering to best practices, and keeping up with the latest industry trends. My commitment to delivering top-tier mobile applications makes me a reliable and dedicated professional in the field.I am enthusiastic about tackling new challenges and contributing to the success of future projects. Whether it's enhancing user engagement, optimizing performance, or developing innovative features, I am ready to take on the task and bring value to every project I work on.",
+    "I am a seasoned React Native developer with over three years of professional experience in the field. During my career, I have successfully published nine innovative mobile applications on both the Apple App Store and Google Play Store. These apps have received positive reviews and garnered a substantial user base.My expertise in React Native allows me to create cross-platform mobile applications that not only meet but exceed the expectations of users. I take pride in my ability to translate ideas into intuitive and visually appealing applications, all while ensuring smooth performance and reliability.Over the years, I have honed my skills in developing responsive and feature-rich mobile solutions. I am well-versed in working with diverse teams, adhering to best practices, and keeping up with the latest industry trends. My commitment to delivering top-tier mobile applications makes me a reliable and dedicated professional in the field.I am enthusiastic about tackling new challenges and contributing to the success of future projects. Whether it's enhancing user engagement, optimizing performance, or developing innovative features, I am ready to take on the task and bring value to every project I work on.",
 };
 const worktimeline = [
   {
