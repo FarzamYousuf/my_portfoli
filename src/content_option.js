@@ -95,9 +95,58 @@ const services = [
 
 const dataportfolio = [
   {
-    title:'GJ Properties',
-    img: require('./assets/images/GJ_Properties.png'),
+    title: "GJ Properties",
+    img: require("./assets/images/GJ_Properties.png"),
+    link: "https://play.google.com/store/apps/details?id=com.gjproperties",
+    iosLink: "",
+  },
+  {
+    title: "Tapped N",
+    img: require("./assets/images/Tapped_N.png"),
     link: "#",
+    iosLink: "#",
+  },
+  {
+    title: "Show Off",
+    img: require("./assets/images/Show_Off.png"),
+    link: "https://play.google.com/store/apps/details?id=com.techversatile.showOff&hl=en&gl=US",
+    iosLink: "",
+  },
+  {
+    title: "Prox Vet",
+    img: require("./assets/images/Prox_Vet.png"),
+    link: "https://play.google.com/store/apps/details?id=com.techverticks.farmhandvet",
+    iosLink: "",
+  },
+  {
+    title: "Prox Equine",
+    img: require("./assets/images/Prox_Equine.png"),
+    link: "https://play.google.com/store/apps/details?id=com.techverticks.farmhandhorse",
+    iosLink: "",
+  },
+  {
+    title: "Muslim Appen",
+    img: require("./assets/images/Muslim_Appen.png"),
+    link: "https://play.google.com/store/apps/details?id=io.appery.project303349&hl=en&gl=US",
+    iosLink: "",
+  },
+  {
+    title: "Event Buddy",
+    img: require("./assets/images/Event_Buddy.png"),
+    link: "https://play.google.com/store/apps/details?id=com.eventbuddy.techversatile.kp",
+    iosLink: "",
+  },
+  {
+    title: "Jino",
+    img: require("./assets/images/Jino.png"),
+    link: "https://play.google.com/store/apps/details?id=com.os.jinocustomer&hl=en&gl=US",
+    iosLink: "https://apps.apple.com/ae/app/jino-on-demand-car-services/id1462862177",
+  },
+  {
+    title: "Shafi",
+    img: require("./assets/images/Shafi_App.png"),
+    link: "https://play.google.com/store/apps/details?id=com.shafi",
+    iosLink: "https://apps.apple.com/ca/app/shafi-app/id6443931486",
   },
 ];
 
@@ -118,7 +167,7 @@ const socialprofils = {
   facebook: "https://facebook.com",
   linkedin: "https://www.linkedin.com/in/farzam-yousuf-a24a13a0/",
   twitter: "https://twitter.com",
-  stackoverflow:'https://stackoverflow.com/users/22845392/farzam-yousuf'
+  stackoverflow: "https://stackoverflow.com/users/22845392/farzam-yousuf",
 };
 export {
   meta,
